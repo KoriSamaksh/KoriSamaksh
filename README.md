@@ -31,12 +31,7 @@ I'm a **Computer Science student at Hansraj College, University of Delhi**, buil
 </td>
 <td width="40%" valign="top" align="center">
 
-```yaml
-Role: AI Developer & Full-Stack Engineer
-College: Hansraj College, DU (2024–2027)
-Focus: LLMs · Agentic Systems · Security
-Status: 🟢 Open to internships
-```
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=1000&color=00F7FF&center=true&vCenter=true&width=320&height=100&lines=Role%3A+AI+Developer+%26+Full-Stack+Eng;College%3A+Hansraj+College%2C+DU;Focus%3A+LLMs+%C2%B7+Agentic+Systems;Status%3A+%F0%9F%9F%A2+Open+to+Internships" />
 
 </td>
 </tr>
@@ -159,7 +154,7 @@ Collection via Apify → cleaning/dedup → EDA → 7-slide deck delivered for H
 ## 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=KoriSamaksh&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=KoriSamaksh&theme=onedark&no-frame=true&no-bg=true&row=1&column=6" />
 </div>
 
 <br>
@@ -168,6 +163,14 @@ Collection via Apify → cleaning/dedup → EDA → 7-slide deck delivered for H
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/KoriSamaksh/KoriSamaksh/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+<br>
+
+## 🎮 Contribution Tetris
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/KoriSamaksh/KoriSamaksh/tetris/dist/github-contribution-grid-tetris.svg" />
 </div>
 
 <br>
