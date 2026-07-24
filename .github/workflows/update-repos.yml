@@ -1,0 +1,45 @@
+name: Update Latest Repos in README
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'   # runs every 6 hours — catches any new repo automatically
+  workflow_dispatch:         # lets you trigger it manually anytime
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout profile repo
+        uses: actions/checkout@v4
+
+      - name: Fetch latest repos and update README
+        env:
+          GH_USERNAME: KoriSamaksh
+        run: |
+          REPOS=$(curl -s "https://api.github.com/users/${GH_USERNAME}/repos?sort=created&direction=desc&per_page=6")
+
+          LIST="\n"
+          echo "$REPOS" | jq -r '.[] | select(.fork==false) | "- **[\(.name)](\(.html_url))** — \(.description // "No description yet") \n"' > repo_list.txt
+
+          # Build final markdown block
+          {
+            echo ""
+            while IFS= read -r line; do
+              echo "$line"
+            done < repo_list.txt
+            echo ""
+          } > repo_block.md
+
+          # Replace content between markers
+          awk '
+            /<!--START_REPOS-->/ {print; system("cat repo_block.md"); skip=1; next}
+            /<!--END_REPOS-->/ {skip=0}
+            !skip {print}
+          ' README.md > README_new.md && mv README_new.md README.md
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Auto-update latest repos" && git push)
