@@ -2,13 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00F7FF&height=250&section=header&text=SAMAKSH%20KORI&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Developer%20%7C%20Full-Stack%20Engineer%20%7C%20Builder&descAlignY=55&descSize=18" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Shipping+AI-powered+apps+with+Gemini+%26+Groq;Full-Stack+Dev+%E2%80%94+React+%2F+TypeScript+%2F+Python;Winner+%40+DSH+Hacks+V1+%F0%9F%8F%86;Currently+building+something+new..." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Samaksh+%F0%9F%91%8B;CS+Student+%40+Hansraj+College%2C+Delhi+University;Building+AI+Apps+with+Gemini+%26+Groq+API;Winner+%F0%9F%8F%86+DSH+Hacks+V1" />
 
 <br>
 
 <a href="https://linkedin.com/in/samakshkori"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://devpost.com/samakshkori"><img src="https://img.shields.io/badge/-Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white"/></a>
 <a href="mailto:Samakshkori.2007@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=KoriSamaksh&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -16,22 +17,59 @@
 
 ## 🧠 About Me
 
+<table>
+<tr>
+<td width="60%" valign="top">
+
+I'm a **Computer Science student at Hansraj College, University of Delhi**, building and shipping AI-powered full-stack applications using **LLM APIs (Gemini, Groq)**, **React/TypeScript**, and **Python**.
+
+- 🏆 **Winner** — Special Prize *"Iteration Machine"*, DSH Hacks V1 (1,001+ participants, $34,996 prize pool)
+- ⚙️ Built backend systems handling **200,000+ records** with zero duplicate/skip errors
+- 🔐 Currently exploring **AI engineering, agentic systems & cybersecurity**
+- 📜 Certified in Data Analytics & Cyber Security (Deloitte × Forage)
+
+</td>
+<td width="40%" valign="top" align="center">
+
 ```yaml
-name: Samaksh Kori
-role: Computer Science Student @ Hansraj College, Delhi University
-focus: AI Engineering · Agentic Systems · Cybersecurity
-currently_building: LLM-powered full-stack tools (Gemini, Groq)
-fun_fact: Scaled a backend to 200,000+ records with zero duplicate errors
-achievement: 🏆 Winner, Special Prize "Iteration Machine" — DSH Hacks V1
+Role: AI Developer & Full-Stack Engineer
+College: Hansraj College, DU (2024–2027)
+Focus: LLMs · Agentic Systems · Security
+Status: 🟢 Open to internships
 ```
+
+</td>
+</tr>
+</table>
 
 <br>
 
-## ⚡ Tech Arsenal
+## ⚡ Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=py,js,ts,react,flask,html,css,postgres,git,github,vercel,cloudflare,figma&theme=dark&perline=7" />
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+
 </div>
+
+**AI & LLM Tools:** Gemini AI API · Groq API (LLaMA 3.3 70B) · Cursor · Lovable · Prompt Engineering · Wikipedia API
+**Data & Analytics:** pandas · matplotlib · seaborn · Apify · EDA Pipelines
+**Design & Content:** Canva · Adobe Photoshop · Video Editing
 
 <br>
 
@@ -43,7 +81,7 @@ achievement: 🏆 Winner, Special Prize "Iteration Machine" — DSH Hacks V1
 
 ### 🎓 StudyMate AI
 Adaptive STEM tutor — roadmaps, quizzes, flashcards, gamified revision. Grounded via Wikipedia API. EN / HI / Hinglish.
-**🏆 Winner — DSH Hacks V1** (1,001+ builders)
+**🏆 Winner — DSH Hacks V1**
 
 `React` `TypeScript` `Gemini AI`
 [→ github.com/korisamaksh/studymate](https://github.com/korisamaksh/studymate)
@@ -93,12 +131,12 @@ Collection via Apify → cleaning/dedup → EDA → 7-slide deck delivered for H
 
 ## 🔄 Latest Repos — Auto-Synced
 <!--START_REPOS-->
-*This section updates itself automatically every time you create or push to a new repo — see workflow setup below.*
+*This section updates itself automatically every time you create or push to a new repo.*
 <!--END_REPOS-->
 
 <br>
 
-## 📈 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=KoriSamaksh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
@@ -106,6 +144,22 @@ Collection via Apify → cleaning/dedup → EDA → 7-slide deck delivered for H
 </div>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoriSamaksh&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<br>
+
+## 📅 Contribution Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KoriSamaksh&theme=tokyo-night&hide_border=true" />
+</div>
+
+<br>
+
+## 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=KoriSamaksh&theme=tokyonight&no-frame=true&row=1&column=6" />
 </div>
 
 <br>
