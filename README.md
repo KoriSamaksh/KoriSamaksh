@@ -113,7 +113,20 @@ Collection via Apify → cleaning/dedup → EDA → 7-slide deck delivered for H
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=55&text=LATEST%20REPOS%20—%20AUTO-SYNCED&fontSize=20&fontColor=0D1321&fontAlign=50&fontAlignY=65" width="100%"/>
 
 <!--START_REPOS-->
-*This section updates itself automatically every time you create or push to a new repo.*
+
+- **[KoriSamaksh](https://github.com/KoriSamaksh/KoriSamaksh)** — No description yet 
+
+- **[ContentAuditTool](https://github.com/KoriSamaksh/ContentAuditTool)** — :  🔍 AI-powered B2B content research assistant — search competitors, audit copy, extract keywords, generate hashtags, rewrite posts & build SEO outlines. Powered by Groq (LLaMA 3.3 70B) + SerpApi. 
+
+- **[bba-mba-student-analytics](https://github.com/KoriSamaksh/bba-mba-student-analytics)** — Data collection, cleaning, and EDA on BBA/MBA student profiles — built for the HiGen Labs Data Analytics Assessment. Python (pandas) pipeline + visualizations on skills, specializations, locations, and internship/certification trends 
+
+- **[StorePageBackend](https://github.com/KoriSamaksh/StorePageBackend)** — A Flask + Supabase backend that browses 200,000 products using cursor-based (keyset) pagination — stays fast and duplicate-free even while products are being added live. Built for a backend take-home assessment. 
+
+- **[Sonic-Weaver-AI-Music](https://github.com/KoriSamaksh/Sonic-Weaver-AI-Music)** — AI-powered music streaming PWA built with TanStack Start, React 19, and Tailwind CSS — featuring AI auto-mix, a 10-band equalizer, live lyrics, and immersive 3D audio visuals. 
+
+- **[studymate](https://github.com/KoriSamaksh/studymate)** — AI-powered STEM tutor that adapts lessons, roadmaps, quizzes, flashcards & practice papers to your age, level, and language. Built with React, TypeScript, TanStack Start & Gemini. DSH Hacks V1 submission. 
+
+
 <!--END_REPOS-->
 
 <a name="activity"></a>
