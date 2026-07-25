@@ -37,7 +37,7 @@ I'm a **Computer Science student at Hansraj College, University of Delhi**, buil
 </tr>
 </table>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0F2027,100:00F7FF&height=3&section=header" width="100%"/>
 
 ## ⚡ Tech Stack
 
@@ -66,7 +66,7 @@ I'm a **Computer Science student at Hansraj College, University of Delhi**, buil
 **Data & Analytics:** pandas · matplotlib · seaborn · Apify · EDA Pipelines
 **Design & Content:** Canva · Adobe Photoshop · Video Editing
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0F2027,100:00F7FF&height=3&section=header" width="100%"/>
 
 ## 🚀 Projects That Actually Ship
 
@@ -122,14 +122,14 @@ Collection via Apify → cleaning/dedup → EDA → 7-slide deck delivered for H
 <a href="https://github.com/KoriSamaksh/bba-mba-student-analytics">→ github.com/KoriSamaksh/bba-mba-student-analytics</a>
 </details>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0F2027,100:00F7FF&height=3&section=header" width="100%"/>
 
 ## 🔄 Latest Repos — Auto-Synced
 <!--START_REPOS-->
 *This section updates itself automatically every time you create or push to a new repo.*
 <!--END_REPOS-->
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0F2027,100:00F7FF&height=3&section=header" width="100%"/>
 
 ## 📊 GitHub Activity
 
@@ -141,7 +141,7 @@ Collection via Apify → cleaning/dedup → EDA → 7-slide deck delivered for H
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoriSamaksh&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0F2027,100:00F7FF&height=3&section=header" width="100%"/>
 
 ## 📅 Contribution Graph
 
@@ -149,7 +149,7 @@ Collection via Apify → cleaning/dedup → EDA → 7-slide deck delivered for H
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KoriSamaksh&theme=tokyo-night&hide_border=true" />
 </div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0F2027,100:00F7FF&height=3&section=header" width="100%"/>
 
 ## 🏆 Trophies
 
@@ -157,7 +157,11 @@ Collection via Apify → cleaning/dedup → EDA → 7-slide deck delivered for H
 <img src="https://github-profile-trophy.vercel.app/?username=KoriSamaksh&theme=onedark&no-frame=true&no-bg=true&row=1&column=6" />
 </div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0F2027,100:00F7FF&height=3&section=header" width="100%"/>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
+</div>
 
 ## 🐍 Contribution Snake
 
@@ -165,7 +169,7 @@ Collection via Apify → cleaning/dedup → EDA → 7-slide deck delivered for H
 <img src="https://raw.githubusercontent.com/KoriSamaksh/KoriSamaksh/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0F2027,100:00F7FF&height=3&section=header" width="100%"/>
 
 ## 🎮 Contribution Tetris
 
