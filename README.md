@@ -11,6 +11,15 @@
 <a href="mailto:Samakshkori.2007@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=KoriSamaksh&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS"/>
 
+<br><br>
+
+<a href="#-about-me">About</a> •
+<a href="#-tech-stack">Tech Stack</a> •
+<a href="#-projects-that-actually-ship">Projects</a> •
+<a href="#-github-activity">Activity</a> •
+<a href="#-trophies">Trophies</a> •
+<a href="mailto:Samakshkori.2007@gmail.com">Contact</a>
+
 </div>
 
 <br>
@@ -36,6 +45,8 @@ I'm a **Computer Science student at Hansraj College, University of Delhi**, buil
 </td>
 </tr>
 </table>
+
+<div align="right"><a href="#samaksh-kori">⬆ Back to top</a></div>
 
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0F2027,100:00F7FF&height=3&section=header" width="100%"/>
 
@@ -66,6 +77,8 @@ I'm a **Computer Science student at Hansraj College, University of Delhi**, buil
 **Data & Analytics:** pandas · matplotlib · seaborn · Apify · EDA Pipelines
 **Design & Content:** Canva · Adobe Photoshop · Video Editing
 
+<div align="right"><a href="#samaksh-kori">⬆ Back to top</a></div>
+
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0F2027,100:00F7FF&height=3&section=header" width="100%"/>
 
 ## 🚀 Projects That Actually Ship
@@ -74,41 +87,37 @@ I'm a **Computer Science student at Hansraj College, University of Delhi**, buil
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 StudyMate AI
+### <a href="https://github.com/korisamaksh/studymate">🎓 StudyMate AI ↗</a>
 Adaptive STEM tutor — roadmaps, quizzes, flashcards, gamified revision. Grounded via Wikipedia API. EN / HI / Hinglish.
 **🏆 Winner — DSH Hacks V1**
 
 `React` `TypeScript` `Gemini AI`
-[→ github.com/korisamaksh/studymate](https://github.com/korisamaksh/studymate)
 
 </td>
 <td width="50%" valign="top">
 
-### 🔍 Content Audit Tool
+### <a href="https://github.com/KoriSamaksh/ContentAuditTool">🔍 Content Audit Tool ↗</a>
 7-module AI B2B research assistant — SEO outlines, keyword extraction, competitor search, content rewriting.
 
 `React 19` `Groq · LLaMA 3.3 70B` `SerpApi`
-[→ github.com/KoriSamaksh/ContentAuditTool](https://github.com/KoriSamaksh/ContentAuditTool)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ StorePageBackend
+### <a href="https://github.com/KoriSamaksh/StorePageBackend">⚡ StorePageBackend ↗</a>
 REST API browsing 200K+ products, **zero** duplicate/skip errors. Cursor-based pagination cut DB trips 200,000 → 40.
 
 `Python` `Flask` `Supabase` `Render`
-[→ github.com/KoriSamaksh/StorePageBackend](https://github.com/KoriSamaksh/StorePageBackend)
 
 </td>
 <td width="50%" valign="top">
 
-### 🎵 Sonic Weaver
+### <a href="https://freemusicdownload.pages.dev">🎵 Sonic Weaver ↗</a>
 AI music streaming PWA — auto-mix, 10-band EQ, live lyrics, 3D audio visuals. Installable everywhere.
 
 `React` `Tailwind` `Cloudflare Pages`
-[→ freemusicdownload.pages.dev](https://freemusicdownload.pages.dev)
 
 </td>
 </tr>
@@ -122,12 +131,16 @@ Collection via Apify → cleaning/dedup → EDA → 7-slide deck delivered for H
 <a href="https://github.com/KoriSamaksh/bba-mba-student-analytics">→ github.com/KoriSamaksh/bba-mba-student-analytics</a>
 </details>
 
+<div align="right"><a href="#samaksh-kori">⬆ Back to top</a></div>
+
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0F2027,100:00F7FF&height=3&section=header" width="100%"/>
 
 ## 🔄 Latest Repos — Auto-Synced
 <!--START_REPOS-->
 *This section updates itself automatically every time you create or push to a new repo.*
 <!--END_REPOS-->
+
+<div align="right"><a href="#samaksh-kori">⬆ Back to top</a></div>
 
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0F2027,100:00F7FF&height=3&section=header" width="100%"/>
 
@@ -141,6 +154,8 @@ Collection via Apify → cleaning/dedup → EDA → 7-slide deck delivered for H
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoriSamaksh&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
+<div align="right"><a href="#samaksh-kori">⬆ Back to top</a></div>
+
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0F2027,100:00F7FF&height=3&section=header" width="100%"/>
 
 ## 📅 Contribution Graph
@@ -149,6 +164,8 @@ Collection via Apify → cleaning/dedup → EDA → 7-slide deck delivered for H
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KoriSamaksh&theme=tokyo-night&hide_border=true" />
 </div>
 
+<div align="right"><a href="#samaksh-kori">⬆ Back to top</a></div>
+
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0F2027,100:00F7FF&height=3&section=header" width="100%"/>
 
 ## 🏆 Trophies
@@ -156,6 +173,8 @@ Collection via Apify → cleaning/dedup → EDA → 7-slide deck delivered for H
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=KoriSamaksh&theme=onedark&no-frame=true&no-bg=true&row=1&column=6" />
 </div>
+
+<div align="right"><a href="#samaksh-kori">⬆ Back to top</a></div>
 
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0F2027,100:00F7FF&height=3&section=header" width="100%"/>
 
@@ -169,12 +188,14 @@ Collection via Apify → cleaning/dedup → EDA → 7-slide deck delivered for H
 <img src="https://raw.githubusercontent.com/KoriSamaksh/KoriSamaksh/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
+<div align="right"><a href="#samaksh-kori">⬆ Back to top</a></div>
+
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0F2027,100:00F7FF&height=3&section=header" width="100%"/>
 
-## 🎮 Contribution Tetris
+## 🏙️ 3D Contribution Graph
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/KoriSamaksh/KoriSamaksh/tetris/dist/github-contribution-grid-tetris.svg" />
+<img src="https://raw.githubusercontent.com/KoriSamaksh/KoriSamaksh/main/profile-3d-contrib/profile-night-rainbow.svg" />
 </div>
 
 <br>
